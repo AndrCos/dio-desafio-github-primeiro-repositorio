@@ -1,0 +1,7 @@
+- HTML
+- CSS
+- JS
+- ReactJS
+- Vue.js
+- UI/UX Design
+

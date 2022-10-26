@@ -1,0 +1,11 @@
+Download VSCode
+https://code.visualstudio.com/download
+-
+Download Git
+https://git-scm.com/downloads
+-
+Download Figma
+https://www.figma.com/downloads/
+-
+Squoosh
+https://squoosh.app/
